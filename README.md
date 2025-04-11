@@ -1,1 +1,1 @@
-# ** 🚀 Project 05 : Secure Data Encryption System App Using Streamlit ✔**
+# **🚀 Project 05: Secure Data Encryption System App Using Streamlit ✔**
